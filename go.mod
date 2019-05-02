@@ -7,12 +7,11 @@ require (
 	github.com/apparentlymart/go-cidr v0.0.0-20170616213631-2bd8b58cf427 // indirect
 	github.com/apparentlymart/go-textseg v0.0.0-20170531203952-b836f5c4d331 // indirect
 	github.com/armon/go-radix v0.0.0-20170727155443-1fca145dffbc // indirect
-	github.com/aws/aws-sdk-go v1.8.36
+	github.com/aws/aws-sdk-go v1.8.36 // indirect
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
 	github.com/bgentry/speakeasy v0.1.0 // indirect
 	github.com/blang/semver v0.0.0-20180305174007-c5e971dbed78 // indirect
 	github.com/davecgh/go-spew v0.0.0-20151105211317-5215b55f46b2 // indirect
-	github.com/deoxxa/aws_signing_client v0.0.0-20161109131055-c20ee106809e
 	github.com/fatih/color v1.6.0 // indirect
 	github.com/fortytw2/leaktest v1.3.0 // indirect
 	github.com/go-ini/ini v0.0.0-20170519023713-afbc45e87f3b // indirect

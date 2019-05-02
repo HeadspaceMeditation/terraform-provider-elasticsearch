@@ -16,8 +16,6 @@ github.com/blang/semver v0.0.0-20180305174007-c5e971dbed78 h1:4RGBQf2ypARWNZ2yZ3
 github.com/blang/semver v0.0.0-20180305174007-c5e971dbed78/go.mod h1:kRBLl5iJ+tD4TcOOxsy/0fnwebNt5EWlYSAyrTnjyyk=
 github.com/davecgh/go-spew v0.0.0-20151105211317-5215b55f46b2 h1:5zdDAMuB3gvbHB1m2BZT9+t9w+xaBmK3ehb7skDXcwM=
 github.com/davecgh/go-spew v0.0.0-20151105211317-5215b55f46b2/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/deoxxa/aws_signing_client v0.0.0-20161109131055-c20ee106809e h1:komYbzHYXBodn6J9/TfaTSJ1yS9u3qxL2SfGCbYuHSA=
-github.com/deoxxa/aws_signing_client v0.0.0-20161109131055-c20ee106809e/go.mod h1:Mm94RlUFVV/k1ft2muCWN/qIf6zBxC9yCMmRqOU4W9Q=
 github.com/fatih/color v1.6.0 h1:66qjqZk8kalYAvDRtM1AdAJQI0tj4Wrue3Eq3B3pmFU=
 github.com/fatih/color v1.6.0/go.mod h1:Zm6kSWBoL9eyXnKyktHP6abPY2pDugNf5KwzbycvMj4=
 github.com/fortytw2/leaktest v1.2.0/go.mod h1:jDsjWgpAGjm2CA7WthBh/CdZYEPF31XHquHwclZch5g=
